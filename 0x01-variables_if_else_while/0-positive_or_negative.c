@@ -3,7 +3,7 @@
 #include <time.h>
 
 /*
- * main the eentry point
+ * main - the eentry point
  * assigning a random number to var n each time it is executed
  * return: write
  */
