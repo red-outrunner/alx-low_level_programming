@@ -6,10 +6,11 @@
  * main the eentry point
  * assigning a random number to var n each time it is executed
  * return: write
- * */
+ */
 int main(void)
 {
 	int n;
+
 	srand(time(0));
 	n = rand() - RAND_MAX / 2;
 	if (n > 0)
