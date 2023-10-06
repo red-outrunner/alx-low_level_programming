@@ -1,11 +1,11 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include <time.h>
-
-/*
- * main - the eentry point
- * assigning a random number to var n each time it is executed
- * return: write
+/**
+ * main - main block
+ * Description: Get a random number and print the number
+ * positive,nagetive or zero
+ * Return: Always 0 (success)
  */
 int main(void)
 {
