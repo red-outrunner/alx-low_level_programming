@@ -8,7 +8,8 @@
  */
 int main(void)
 {
-	int alphabet;	
+	int alphabet;
+
 	for (alphabet = 'a'; alphabet <= 'z'; alphabet++)
 	{
 		alphabet = tolower(alphabet);
